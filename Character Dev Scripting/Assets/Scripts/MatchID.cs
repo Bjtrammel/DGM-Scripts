@@ -7,8 +7,21 @@ public class MatchID : MonoBehaviour
 {
 
 	public List<NameID> nameIDList;
-
+	
 	private void OnTriggerEnter(Collider other)
+	/*{
+		var doWorkObj = other.GetComponent<DoWork>();
+		var otherNameID = doWorkObj.nameIdobj;
+		
+		foreach (var nameId in nameIDList)
+		{
+			if (nameId == otherNameID)
+			{
+				event.invoke;
+			}
+		}
+	} */
+	
 	{
 		var doWorkObj = other.GetComponent<DoWork>();
 		var otherNameID = doWorkObj.nameIdobj;
@@ -21,7 +34,6 @@ public class MatchID : MonoBehaviour
 			}
 		}
 	}
-
 
 	/*private void OnTriggerEnter(Collider other)
 	{
