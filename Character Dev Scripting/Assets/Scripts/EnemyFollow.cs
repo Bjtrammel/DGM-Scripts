@@ -1,20 +1,17 @@
-﻿/*using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyFollow : ScriptableObject
+public class EnemyFollow : MonoBehaviour
 {
-    public FloatData moveSpeed;
+    //public FloatData moveSpeed;
     public Transform target;
 
-    public NameID;
+    //public NameID;
 
-    private void OntriggerStay(CharacterController other)
+    public void Follow()
     {
-        if (other.gameObject NameID = )
-        {
-            transform.LookAt(target);
-        }
+    transform.LookAt(target);
     }
 }
 /*

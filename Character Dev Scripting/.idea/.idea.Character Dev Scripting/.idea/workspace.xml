@@ -8,106 +8,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding>
-                <marker date="1580269064728" expanded="false" signature="6:78" ph="..." />
-                <marker date="1580269064728" expanded="true" signature="115:196" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#78#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DebugObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <marker date="1579808794103" expanded="false" signature="6:104" ph="..." />
-                <marker date="1579808794103" expanded="true" signature="168:252" ph="{...}" />
-                <marker date="1579808794103" expanded="true" signature="210:250" ph="{...}" />
-                <marker date="1579808794103" expanded="true" signature="254:601" ph="/* [CreateAssetMenu] ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <marker date="1580268818112" expanded="true" signature="0:749" ph="/* using System.Collections; ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#133#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-              <folding>
-                <marker date="1580270967140" expanded="false" signature="6:92" ph="..." />
-                <marker date="1580270967140" expanded="true" signature="130:872" ph="{...}" />
-                <marker date="1580270967140" expanded="true" signature="215:419" ph="/* { ... */" />
-                <marker date="1580270967140" expanded="true" signature="421:626" ph="{...}" />
-                <marker date="1580270967140" expanded="true" signature="553:623" ph="{...}" />
-                <marker date="1580270967140" expanded="true" signature="587:619" ph="{...}" />
-                <marker date="1580270967140" expanded="true" signature="629:730" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-                <marker date="1580270967140" expanded="true" signature="733:870" ph="/* public NameID nameIDobj; ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebugObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/Anthony/Behavior.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/OnTriggerEnterEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebugObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AnimBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,11 +36,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementMb.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePatternMb.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SelfId.cs" />
         <option value="E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelfId.cs" />
       </list>
     </option>
   </component>
@@ -137,21 +53,16 @@
   </component>
   <component name="ProjectId" id="1WUBsF9YaNKVFcvz9lUDmptCdFb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
-  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="do_not_show_unity_auto_save_notification" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -195,53 +106,9 @@
       <workItem from="1579807340553" duration="9000" />
       <workItem from="1579807380572" duration="1398000" />
       <workItem from="1580262593761" duration="7747000" />
+      <workItem from="1580410812042" duration="3444000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7747000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -254,12 +121,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -284,6 +145,10 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="161" key="SettingsEditor" />
+    <state x="445" y="161" key="SettingsEditor/1920.1080" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -293,138 +158,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovementMb.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternMb.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/Anthony/Behavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/OnTriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1580269064728" expanded="false" signature="6:78" ph="..." />
-            <marker date="1580269064728" expanded="true" signature="115:196" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1579203064622" expanded="false" signature="6:78" ph="..." />
-            <marker date="1579203064622" expanded="true" signature="137:146" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DebugObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <marker date="1579808794103" expanded="false" signature="6:104" ph="..." />
-            <marker date="1579808794103" expanded="true" signature="168:252" ph="{...}" />
-            <marker date="1579808794103" expanded="true" signature="210:250" ph="{...}" />
-            <marker date="1579808794103" expanded="true" signature="254:601" ph="/* [CreateAssetMenu] ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <marker date="1580268818112" expanded="true" signature="0:749" ph="/* using System.Collections; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding>
-            <marker date="1580270967140" expanded="false" signature="6:92" ph="..." />
-            <marker date="1580270967140" expanded="true" signature="130:872" ph="{...}" />
-            <marker date="1580270967140" expanded="true" signature="215:419" ph="/* { ... */" />
-            <marker date="1580270967140" expanded="true" signature="421:626" ph="{...}" />
-            <marker date="1580270967140" expanded="true" signature="553:623" ph="{...}" />
-            <marker date="1580270967140" expanded="true" signature="587:619" ph="{...}" />
-            <marker date="1580270967140" expanded="true" signature="629:730" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-            <marker date="1580270967140" expanded="true" signature="733:870" ph="/* public NameID nameIDobj; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
