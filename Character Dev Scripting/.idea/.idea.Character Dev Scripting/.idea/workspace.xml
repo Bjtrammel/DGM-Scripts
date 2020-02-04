@@ -9,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
@@ -23,16 +24,40 @@
                 <marker date="1580782404401" expanded="true" signature="374:404" ph="{...}" />
                 <marker date="1580782404401" expanded="true" signature="414:619" ph="/* foreach (var nameId in nameIDList) ... */" />
                 <marker date="1580782404401" expanded="true" signature="622:759" ph="/* public NameID nameIDobj; ... */" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <marker date="1580780201906" expanded="false" signature="6:92" ph="..." />
+                <marker date="1580780201906" expanded="true" signature="130:789" ph="{...}" />
+                <marker date="1580780201906" expanded="true" signature="233:439" ph="{...}" />
+                <marker date="1580780201906" expanded="true" signature="360:436" ph="{...}" />
+                <marker date="1580780201906" expanded="true" signature="394:432" ph="{...}" />
+                <marker date="1580780201906" expanded="true" signature="442:647" ph="/* foreach (var nameId in nameIDList) ... */" />
+                <marker date="1580780201906" expanded="true" signature="650:787" ph="/* public NameID nameIDobj; ... */" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
               <folding>
                 <marker date="1580269064728" expanded="false" signature="6:78" ph="..." />
                 <marker date="1580269064728" expanded="true" signature="115:196" ph="{...}" />
@@ -44,6 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="120">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
@@ -63,6 +89,14 @@
                 <marker date="1579808794103" expanded="true" signature="168:252" ph="{...}" />
                 <marker date="1579808794103" expanded="true" signature="210:250" ph="{...}" />
                 <marker date="1579808794103" expanded="true" signature="254:601" ph="/* [CreateAssetMenu] ... */" />
+=======
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1580780119883" expanded="true" signature="6:133" ph="..." />
+                <marker date="1580780119883" expanded="true" signature="175:288" ph="{...}" />
+                <marker date="1580780119883" expanded="true" signature="250:286" ph="{...}" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
               </folding>
             </state>
           </provider>
@@ -71,10 +105,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="120">
               <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <marker date="1580270681531" expanded="false" signature="6:133" ph="..." />
+=======
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1580270681531" expanded="true" signature="6:133" ph="..." />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
                 <marker date="1580270681531" expanded="true" signature="181:300" ph="{...}" />
                 <marker date="1580270681531" expanded="true" signature="262:298" ph="{...}" />
               </folding>
@@ -115,10 +156,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePatternMb.cs" />
         <option value="E:/Spring 2019/DGM-2211 - Game Dev/Game Dev 1st Attempt/Prototype One/Assets/Scripts/TESTFreezeToDeath.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SelfId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
       </list>
     </option>
   </component>
@@ -190,20 +231,51 @@
       <workItem from="1579807380572" duration="1398000" />
       <workItem from="1580262593761" duration="7747000" />
       <workItem from="1580410812042" duration="3444000" />
+      <workItem from="1580779713913" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="610000" />
+=======
+    <option name="totallyTimeSpent" value="550000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+=======
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -211,6 +283,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -227,6 +300,15 @@
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+=======
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +367,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -292,12 +375,35 @@
           <folding>
             <marker date="1580782404400" expanded="true" signature="6:78" ph="..." />
             <marker date="1580782404400" expanded="true" signature="120:129" ph="{...}" />
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1580270681531" expanded="true" signature="6:133" ph="..." />
+            <marker date="1580270681531" expanded="true" signature="181:300" ph="{...}" />
+            <marker date="1580270681531" expanded="true" signature="262:298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoWorkEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1580780119883" expanded="true" signature="6:133" ph="..." />
+            <marker date="1580780119883" expanded="true" signature="175:288" ph="{...}" />
+            <marker date="1580780119883" expanded="true" signature="250:286" ph="{...}" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="240">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
@@ -308,6 +414,29 @@
             <marker date="1580782404401" expanded="true" signature="374:404" ph="{...}" />
             <marker date="1580782404401" expanded="true" signature="414:619" ph="/* foreach (var nameId in nameIDList) ... */" />
             <marker date="1580782404401" expanded="true" signature="622:759" ph="/* public NameID nameIDobj; ... */" />
+=======
+        <state relative-caret-position="210">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <marker date="1580780201906" expanded="false" signature="6:92" ph="..." />
+            <marker date="1580780201906" expanded="true" signature="130:789" ph="{...}" />
+            <marker date="1580780201906" expanded="true" signature="233:439" ph="{...}" />
+            <marker date="1580780201906" expanded="true" signature="360:436" ph="{...}" />
+            <marker date="1580780201906" expanded="true" signature="394:432" ph="{...}" />
+            <marker date="1580780201906" expanded="true" signature="442:647" ph="/* foreach (var nameId in nameIDList) ... */" />
+            <marker date="1580780201906" expanded="true" signature="650:787" ph="/* public NameID nameIDobj; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SelfId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1580269064728" expanded="false" signature="6:78" ph="..." />
+            <marker date="1580269064728" expanded="true" signature="115:196" ph="{...}" />
+>>>>>>> 288ea93... Add Zbrush FIles/ Broke all the Scripts
           </folding>
         </state>
       </provider>

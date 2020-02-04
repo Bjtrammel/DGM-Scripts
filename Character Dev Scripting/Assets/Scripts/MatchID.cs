@@ -7,7 +7,8 @@ public class MatchID : MonoBehaviour
 {
 
 	public List<NameID> nameIDList;
-	
+
+	public DoWorkEvent;
 	private void OnTriggerEnter(Collider other)
 	{
 		var doWorkObj = other.GetComponent<SelfId>();
@@ -17,7 +18,7 @@ public class MatchID : MonoBehaviour
 		{
 			if (nameId == otherNameID)
 			{
-				doWorkObj.Work;
+				//DoWorkEvent.WorkTest;
 			}
 		}
 	}
