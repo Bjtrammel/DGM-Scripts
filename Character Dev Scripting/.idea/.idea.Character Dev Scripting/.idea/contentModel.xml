@@ -8,8 +8,11 @@
       <e p="Assets" t="Include">
         <e p="AnimBehavior.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="BoolData.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="CheckBoolData.cs" t="Include" />
           <e p="DebugObject.cs" t="Include" />
+          <e p="Dialogue.cs" t="Include" />
           <e p="DoWork.cs" t="Include" />
           <e p="DoWorkEvent.cs" t="Include" />
           <e p="EnemyFollow.cs" t="Include" />
