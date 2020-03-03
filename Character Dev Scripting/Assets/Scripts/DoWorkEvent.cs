@@ -9,7 +9,7 @@ public class DoWorkEvent : MonoBehaviour
 
     public UnityEvent Event;
 
-    private void WorkTest(Collider other)
+    public void WorkTest(Collider other)
     {
         Event.Invoke();
     }

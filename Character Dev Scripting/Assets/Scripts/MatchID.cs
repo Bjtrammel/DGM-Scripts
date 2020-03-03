@@ -18,7 +18,7 @@ public class MatchID : MonoBehaviour
 		{
 			if (nameId == otherNameID)
 			{
-				//DoWorkEvent.WorkTest;
+				DoWorkEvent.WorkTest();
 			}
 		}
 	}
