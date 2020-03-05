@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,7 +8,7 @@ public class MatchID : MonoBehaviour
 
 	public List<NameID> nameIDList;
 
-	public DoWorkEvent;
+	public DoWorkEvent
 	private void OnTriggerEnter(Collider other)
 	{
 		var doWorkObj = other.GetComponent<SelfId>();
@@ -21,7 +21,7 @@ public class MatchID : MonoBehaviour
 				DoWorkEvent.WorkTest();
 			}
 		}
-	}
+	}*/
 
 	/*foreach (var nameId in nameIDList)
 	{
@@ -44,4 +44,4 @@ public class MatchID : MonoBehaviour
 	{
 		var other.nameID = other.GetComponent<MatchID().nameID
 	}*/
-}
+//}
