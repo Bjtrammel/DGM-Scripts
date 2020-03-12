@@ -12,12 +12,18 @@
           <e p="CameraFollow.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
           <e p="CheckBoolData.cs" t="Include" />
+          <e p="Collectable.cs" t="Include" />
+          <e p="Collection.cs" t="Include" />
           <e p="DebugObject.cs" t="Include" />
           <e p="Dialogue.cs" t="Include" />
+          <e p="DialogueReset.cs" t="Include" />
           <e p="DoWork.cs" t="Include" />
           <e p="DoWorkEvent.cs" t="Include" />
           <e p="EnemyFollow.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="GameActionHandler.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="MatchID.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
@@ -26,6 +32,7 @@
           <e p="StringListData.cs" t="Include" />
           <e p="TextBehavior.cs" t="Include" />
           <e p="TriggerEnterEvent.cs" t="Include" />
+          <e p="WeaponCollectable.cs" t="Include" />
         </e>
       </e>
       <e p="Character Dev Scripting.sln" t="IncludeFlat" />
