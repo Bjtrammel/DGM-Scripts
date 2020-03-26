@@ -30,6 +30,7 @@
           <e p="RotateBehavior.cs" t="Include" />
           <e p="SelfId.cs" t="Include" />
           <e p="StringListData.cs" t="Include" />
+          <e p="StringListManager.cs" t="Include" />
           <e p="TextBehavior.cs" t="Include" />
           <e p="TriggerEnterEvent.cs" t="Include" />
           <e p="WeaponCollectable.cs" t="Include" />
