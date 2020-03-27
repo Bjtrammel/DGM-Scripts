@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DoWork : MonoBehaviour
 {
-    public NameID nameIdobj;
+    public NameId nameIdobj;
 
     public void Work()
     {

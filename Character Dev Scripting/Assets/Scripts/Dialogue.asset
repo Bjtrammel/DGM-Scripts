@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: Dialogue
   m_EditorClassIdentifier: 
   stringListObj:
-  - Hello
+  - 
   - I'm glad you're here.
   - Welcome my son.
   - Welcome to the machine.
+  - Hello
   currentLineNumber: 0
