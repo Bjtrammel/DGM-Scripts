@@ -5,5 +5,5 @@ using UnityEngine;
 public class SelfId : MonoBehaviour
 {
     // Start is called before the first frame update
-    public NameID self;
+    public NameId self;
 }
