@@ -17,11 +17,7 @@ public class TextBehavior : MonoBehaviour
         awakeEvent.Invoke();
     }
 
-/*    void Update()
-    {
-        textObj.text = stringListDataObj.ReturnCurrentLine();
-    }*/
-    
+
     public void UpdateText(StringListData stringListDataObj)
     {
         textObj.text = stringListDataObj.ReturnCurrentLine();
